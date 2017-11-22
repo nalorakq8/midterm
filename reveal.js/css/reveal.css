@@ -24,7 +24,7 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
+  font-size: 12px;
   font: inherit;
   vertical-align: baseline; }
 
@@ -1251,7 +1251,7 @@ body {
 .reveal .overlay.overlay-help .viewport .viewport-inner table {
   border: 1px solid #fff;
   border-collapse: collapse;
-  font-size: 16px; }
+  font-size: 100%; }
 
 .reveal .overlay.overlay-help .viewport .viewport-inner table th,
 .reveal .overlay.overlay-help .viewport .viewport-inner table td {
