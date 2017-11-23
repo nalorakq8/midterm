@@ -5,5 +5,5 @@
 
 | # | Project      | Link  |
 | :---: | :-------------: |:-------------:|
-| 1 | Midterm      |[Slides](https://nalorakq8.github.io/projects/midterm.html) - [Notebook](https://nalorakq8.github.io/projects/midterm.ipynt) - [pdf](https://nalorakq8.github.io/projects/midterm.pdf)
-| 2 | Final      |[Slides](#)
+| 1 | Midterm      |[slides](https://nalorakq8.github.io/projects/midterm.html) - [notebook](https://nalorakq8.github.io/projects/midterm.ipynb) - [pdf](https://nalorakq8.github.io/projects/midterm.pdf)
+| 2 | Final      |[slides](#)
