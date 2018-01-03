@@ -24,14 +24,18 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 10px !important;
+  font-size: 13px !important;
   font: inherit;
   vertical-align: baseline; }
 .reveal h1 {
   font-size: 30px !important;
 }
+.reveal a {
+  font-size: 20px !important;
+}
 .reveal h2 {
   font-size: 23px !important;
+  text-transform: lowercase;
 }
 .reveal h3 {
   font-size: 18px !important;
